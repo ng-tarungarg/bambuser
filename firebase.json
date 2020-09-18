@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/bambuser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
